@@ -1,2 +1,3 @@
-# building-intelligent-applications
-Building Intelligent Applications
+# Building Intelligent Applications Workshop
+
+Building Intelligent Applications Workshop

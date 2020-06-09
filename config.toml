@@ -1,0 +1,8 @@
+baseURL = "https://github.com/"
+languageCode = "en-au"
+title = "Building Intelligent Applications"
+theme = "hugo-theme-learn"
+
+[params]
+  # Change colour scheme
+  themeVariant = "blue"
